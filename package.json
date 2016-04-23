@@ -1,0 +1,19 @@
+{
+  "name": "excel-soup",
+  "version": "1.0.0",
+  "description": "transform xlsx files into what ever you want.",
+  "main": "index.js",
+  "scripts": {
+    "test": "tester"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Scrumrot/excel-soup.git"
+  },
+  "author": "Tim Frank",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Scrumrot/excel-soup/issues"
+  },
+  "homepage": "https://github.com/Scrumrot/excel-soup#readme"
+}
